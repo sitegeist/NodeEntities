@@ -3,6 +3,7 @@
     "type": "neos-package",
     "version": "1.0.0",
     "require": {
+        "php": "^8.0",
         "neos/content-repository": "~7.2.0"
     },
     "autoload": {

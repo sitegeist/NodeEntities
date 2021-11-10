@@ -1,0 +1,12 @@
+#'Sitegeist.NodeEntities:Content.OverrideMe':
+#  superTypes:
+ #   Neos.Neos:Content: true
+ ## ui:
+ #   inspector:
+ #     groups:
+ #       myGroup:
+ #         position: 10
+ #         label: 'myLabel'
+ #         tab: 'wat'
+ #         collapsed: true
+ #         icon: 'wat'
